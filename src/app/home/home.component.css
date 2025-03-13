@@ -1,0 +1,39 @@
+h1 {
+    color: #248EA6;
+}
+.header{
+    padding: 80px 25px;
+    height: 100vh;
+}
+.header-img img{
+    width: 100%;
+}
+.header-text{
+    font-size: 30px;
+    padding-top: 20%;
+}
+.header-text p{
+    color: #ababab;
+}
+.small-text {
+    font-size: 18px;
+}
+.header-text h1{
+    color: #C4EAF2;
+    font-size: 60px;
+}
+.header-text h1 span{
+    color: #248EA6;
+}
+
+footer {
+    background-color: #144659;
+}
+
+footer p {
+    color: #C4EAF2;
+}
+
+footer a {
+    color: #C4EAF2;
+}
