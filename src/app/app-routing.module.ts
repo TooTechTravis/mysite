@@ -15,7 +15,7 @@ const routes: Routes = [
   { path: 'portfolio', component: PortfolioComponent },
   { path: 'contact', component: ContactComponent },
   { path: 'calculator', component: CalculatorComponent },
-  { path: '' , redirectTo:'/home', pathMatch:'full' }
+  { path: '' , redirectTo:'/root', pathMatch:'full' }
 ];
 
 @NgModule({
